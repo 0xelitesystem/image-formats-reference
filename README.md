@@ -8,15 +8,19 @@ There is no single best image format; each is a tradeoff between file size, qual
 
 ## What is inside
 
-- `01-core-concepts.md` lossy vs lossless, transparency, animation, raster vs vector.
-- `02-the-classic-formats.md` JPEG, PNG, and GIF.
-- `03-the-modern-formats.md` WebP and AVIF.
-- `04-svg-and-vectors.md` why SVG is different and where it wins.
-- `05-comparison-and-choosing.md` a comparison table and a decision guide.
+- [01-core-concepts.md](01-core-concepts.md) lossy vs lossless, transparency, animation, raster vs vector.
+- [02-the-classic-formats.md](02-the-classic-formats.md) JPEG, PNG, and GIF.
+- [03-the-modern-formats.md](03-the-modern-formats.md) WebP and AVIF.
+- [04-svg-and-vectors.md](04-svg-and-vectors.md) why SVG is different and where it wins.
+- [05-comparison-and-choosing.md](05-comparison-and-choosing.md) a comparison table and a decision guide.
 
 ## The stance
 
 This reference favors picking the format that fits the image rather than defaulting to one for everything. It treats WebP and AVIF as the sensible modern choice for photos and graphics with fallbacks, JPEG and PNG as reliable baselines, GIF as largely obsolete for its original uses, and SVG as the correct home for logos, icons, and diagrams.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
